@@ -67,7 +67,7 @@ public class Main {
             totalTime=amountWorkers*workTime;
             System.out.println("Если в компании работает - "+ amountWorkers +" человек, то всего " + totalTime+ " часов");
             System.out.println("работы может быть поделено между сотрудниками");
-            System.out.println("   ");
+            System.out.println("    ");
 
 
 
